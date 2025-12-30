@@ -1,0 +1,18 @@
+
+#box{
+    background-color: blue;
+    height: 320px;
+    width: 230px;
+};
+/* #btn{
+    background-color: yellow; */
+    /* text-align: center; */
+/* }; */
+.box2{
+    background-color: black;
+    padding: 20px;
+    border: 2px solid white;
+    width: 50px;
+    margin:20px;
+   
+};
